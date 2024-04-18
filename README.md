@@ -25,10 +25,12 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 5 celestials
 
+6 Space Raiders (6 groups)
+
 ***
 
 in total:
 
 ***
 
-136 factions (20 groups)
+136 factions (26 groups)
