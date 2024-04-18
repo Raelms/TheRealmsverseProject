@@ -33,6 +33,5 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 in total:
 
-***
 
 136 factions (26 groups)
