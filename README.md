@@ -32,5 +32,3 @@ in total:
 ***
 
 136 factions (20 groups)
-
-11 factions remaining
