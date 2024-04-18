@@ -1,18 +1,18 @@
 ### Mythologies/Religions of the Realmsverse:
 
 **Demon Representatives:**
-- **Ancient Demons**: Worshipers of the Primordial Abyss, ancient demons believe in chaos and destruction as the ultimate forces of creation. They venerate dark entities and seek to unleash chaos upon the universe.
+- **Demons**: Worshipers of the Primordial Abyss, ancient demons believe in chaos and destruction as the ultimate forces of creation. They venerate dark entities and seek to unleash chaos upon the universe.
 - **Chaos Daemons**: Followers of the Chaotic Lords, chaos daemons embrace disorder and entropy, viewing the universe as a canvas upon which chaos must be painted. They revel in destruction and upheaval, seeking to spread chaos wherever they go.
 - **Unholy Demons**: Devotees of the Unholy Trinity, unholy demons worship dark gods and infernal powers, believing in the supremacy of evil and corruption. They seek to subjugate all beings to their unholy will.
 - **Void Demons**: Disciples of the Void, void demons revere the emptiness and darkness of the cosmic void, seeing it as the ultimate source of power and enlightenment. They seek to unravel the mysteries of the void and harness its power for their own ends.
 
 **Angel Representatives:**
-- **Ancient Angels**: Servants of the Divine Pantheon, ancient angels uphold the principles of light, virtue, and righteousness, serving as guardians of cosmic order and defenders of the innocent.
+- **Angels**: Servants of the Divine Pantheon, ancient angels uphold the principles of light, virtue, and righteousness, serving as guardians of cosmic order and defenders of the innocent.
 - **Order Angels**: Followers of the Order of Balance, order angels seek to maintain harmony and balance in the universe, adhering to strict codes of conduct and moral righteousness.
 - **Holy Angels**: Devotees of the Holy Trinity, holy angels exalt in the glory and purity of divine light, spreading compassion, healing, and redemption wherever they go.
 
 **Vampire Representatives:**
-- **Ancient Vampires**: Followers of the Bloodline Elders, ancient vampires venerate the ancient bloodlines and embrace the primal power of the vampire curse, seeking immortality and dominance over lesser beings.
+- **Vampires**: Followers of the Bloodline Elders, ancient vampires venerate the ancient bloodlines and embrace the primal power of the vampire curse, seeking immortality and dominance over lesser beings.
 - **Angelic Vampires**: Disciples of the Celestial Bloodline, angelic vampires believe themselves to be blessed by divine blood, wielding angelic powers and purity against the forces of darkness.
 - **Demonic Vampires**: Servants of the Infernal Pact, demonic vampires revel in the dark gifts of infernal blood, embracing their demonic nature and spreading chaos and corruption wherever they go.
 - **Technic Vampires**: Creations of the Technic Engineers, technic vampires are artificial beings infused with technological enhancements, seeking to transcend their mortal origins and ascend to higher states of existence.
@@ -20,7 +20,7 @@
 - **Night Stalkers**: Outcasts and pariahs, night stalkers are cursed beings doomed to wander the shadows, feeding on fear and darkness to sustain their cursed existence.
 
 **Reaper Representatives:**
-- **Ancient Reapers**: Guardians of the Cosmic Balance, ancient reapers serve as custodians of the cycle of life and death, ensuring that all souls find their rightful place in the afterlife.
+- **Reapers**: Guardians of the Cosmic Balance, ancient reapers serve as custodians of the cycle of life and death, ensuring that all souls find their rightful place in the afterlife.
 - **Void Reapers**: Harbingers of Oblivion, void reapers seek to unravel the fabric of reality and usher in the ultimate annihilation of existence, embracing the void as the ultimate destination of all souls.
 - **Holy Reapers**: Agents of Divine Justice, holy reapers administer divine judgment and redemption, guiding souls to their rightful place in the heavenly realms.
 - **Unholy Reapers**: Enforcers of Infernal Law, unholy reapers serve dark masters and infernal powers, condemning souls to eternal damnation and torment in the depths of hell.
