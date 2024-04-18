@@ -1,18 +1,18 @@
 ### Date and Time Systems in the Realmsverse:
 
 **Demon Representatives:**
-- **Ancient Demons**: The Infernal Calendar - Based on the phases of the Abyssal Moons, with each cycle representing a month. Years are counted from the founding of the Abyssal Empire.
+- **Demons**: The Infernal Calendar - Based on the phases of the Abyssal Moons, with each cycle representing a month. Years are counted from the founding of the Abyssal Empire.
 - **Chaos Daemons**: The Eclipsian Calendar - Governed by the erratic movements of chaotic celestial bodies, with time measured in cycles of chaos and order.
 - **Unholy Demons**: The Darklit Calendar - Derived from the shadowy patterns of the Abyssal Veil, with days and nights alternating irregularly.
 - **Void Demons**: The Abyssal Clock - Time is measured by the ebb and flow of cosmic void energy, with each tick representing a fraction of eternity.
 
 **Angel Representatives:**
-- **Ancient Angels**: The Celestial Calendar - Aligned with the movements of the celestial spheres, with each month named after a virtue of the Divine Pantheon.
+- **Angels**: The Celestial Calendar - Aligned with the movements of the celestial spheres, with each month named after a virtue of the Divine Pantheon.
 - **Order Angels**: The Harmonic Calendar - Marked by the precise rhythms of cosmic harmonies, with time measured in perfect intervals of balance and symmetry.
 - **Holy Angels**: The Radiant Calendar - Illuminated by the divine light of the Holy Sun, with each day representing a step towards enlightenment and purity.
 
 **Vampire Representatives:**
-- **Ancient Vampires**: The Bloodmoon Calendar - Governed by the cycles of the Bloodmoon, with nights of feeding and days of rest.
+- **Vampires**: The Bloodmoon Calendar - Governed by the cycles of the Bloodmoon, with nights of feeding and days of rest.
 - **Angelic Vampires**: The Ethereal Calendar - Aligned with the movements of the celestial realms, with time measured in divine cycles of grace and redemption.
 - **Demonic Vampires**: The Infernal Calendar - Synced with the phases of the Abyssal Gates, with time flowing erratically in the presence of infernal energies.
 - **Technic Vampires**: The Chrono-Mechanical Calendar - Driven by the precision of technological clocks, with time measured in nanoseconds and picoseconds.
@@ -20,7 +20,7 @@
 - **Night Stalkers**: The Shadow Calendar - Shrouded in perpetual darkness, with time measured by the lengthening and shortening of shadows cast by the moon.
 
 **Reaper Representatives:**
-- **Ancient Reapers**: The Soulstice Calendar - Governed by the passage of souls into the afterlife, with each day representing a soul's journey through the realms of death.
+- **Reapers**: The Soulstice Calendar - Governed by the passage of souls into the afterlife, with each day representing a soul's journey through the realms of death.
 - **Void Reapers**: The Oblivion Calendar - Time is meaningless in the void, with events unfolding in strange and unpredictable patterns.
 - **Holy Reapers**: The Sanctified Calendar - Blessed by divine grace, with time flowing smoothly and serenely in the presence of holy energy.
 - **Unholy Reapers**: The Damned Calendar - Cursed by infernal powers, with time distorted and twisted in the presence of unholy energies.
