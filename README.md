@@ -27,6 +27,8 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 6 Space Raiders (6 groups)
 
+1 Blackmarket (idk how to count that nor shall know how to count that)
+
 ***
 
 in total:
