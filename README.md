@@ -29,9 +29,11 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 1 Blackmarket (idk how to count that nor shall know how to count that)
 
+15 Guilds (15 groups)
+
 ***
 
 in total:
 
 
-136 factions (26 groups)
+136 species (41 groups)
