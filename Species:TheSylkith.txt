@@ -1,0 +1,11 @@
+Race Name: The Sylkith
+
+Appearance: The Sylkith are small, agile creatures with features that blend the delicate, fine-boned elegance of elves and the reptilian traits of kobolds. They have pointed ears and bright, almond-shaped eyes, but their skin is scaled, shimmering in various shades of green and blue. They have tails, though shorter and more flexible than those of typical kobolds, which aid in their incredible balance and agility.
+
+Environment: The Sylkith inhabit the dense, enchanted forests of Mirathal, living in treetop villages crafted from the living wood of ancient trees. These forests are filled with a magical mist that seems to shimmer with a life of its own, nurturing and protecting all who dwell within.
+
+Culture: Sylkith society is a blend of kobold cunning and Elvish grace. They are masters of trap-making and guerrilla warfare, defending their homes fiercely from any intruders. Their social structure is clan-based, with a matriarch or patriarch leading each clan. Art, music, and storytelling are vital aspects of their culture, with each clan having its own set of tales and songs passed down through generations.
+
+Abilities: The Sylkith are naturally stealthy and skilled in both illusion magic and the crafting of potions and poisons. They use these skills to protect their territories and to hunt. They also have an innate connection to the natural world, able to communicate with plant life and animals, which they honor and protect as sacred.
+
+Language: Their language is a lyrical mix of high-pitched Elvish tones and the guttural clicks of the kobold tongue, making it a unique challenge for outsiders to learn. It includes subtle body language cues that convey emotion and intent, integral to their communication.
