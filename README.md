@@ -19,9 +19,15 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 32 Reapers (6 groups)
 
+3 Species
+
 2 human sects
 
 4 trans-dimensionals
+
+7 Insectoids
+
+4 Space Dragons
 
 5 celestials
 
@@ -36,4 +42,4 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 in total:
 
 
-136 species (41 groups)
+150 species (41 groups)
