@@ -5,31 +5,31 @@ me discord is open 24/7, and it is: rerumuzu_ekuripusu
 also if you fork this, make sure ye also have me permission to do so, and to make sure that ye tell me the changes ye did to the lore, cuz again me discord is open 24/7
 
 ***
-2 technological races
+2 Technological Races
 
-27 vampires (7 groups)
+27 Vampires (7 groups)
 
 5 + 14 (dragons) = 19 (dragconia)
 
-7 entities
+7 Entities
 
-15 angels (3 groups)
+15 Angels (3 groups)
 
-23 demons (4 groups)
+23 Demons (4 groups)
 
 32 Reapers (6 groups)
 
-3 Species
+4 Species
 
-2 human sects
+2 Mortal Sects
 
-4 trans-dimensionals
+4 Trans-Dimensionals
 
 7 Insectoids
 
 4 Space Dragons
 
-5 celestials
+5 Celestials
 
 6 Space Raiders (6 groups)
 
@@ -42,4 +42,4 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 in total:
 
 
-150 species (41 groups)
+151 species (41 groups)
