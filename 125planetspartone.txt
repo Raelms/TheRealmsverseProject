@@ -1,0 +1,397 @@
+### Class D: Uninhabitable Planetoids, Moons, or Small Planets
+1. **Regis IV** – Desolate moon with iron-rich surface.
+2. **Arix Minor** – Small, barren planetoid used for mining.
+3. **Terekh’s Outpost** – Abandoned moon outpost, no atmosphere.
+4. **Zorath Prime** – Rocky planet with occasional meteor storms.
+5. **Helia II** – Largely volcanic planetoid, thin atmosphere.
+6. **Peridon** – Icy, crater-filled moon orbiting gas giant.
+7. **Echera** – Frozen desert planetoid with ancient ruins.
+8. **Vega Minor** – Potential site for terraforming.
+9. **Braklon** – Moon covered in jagged mountain ranges.
+10. **Lantina IX** – Uninhabited planetoid with ancient alien structures.
+11. **Skran’s Moon** – Cold, dead planetoid used as a research station.
+12. **Kelek Prime** – Small asteroid in uninhabited system.
+13. **Exarus V** – Rocky moon orbiting a Class J gas giant.
+14. **Tirath III** – Frozen dwarf planet on the fringes of a solar system.
+15. **Voltan V** – Meteor-prone planetoid with iron deposits.
+16. **Oron VII** – Desolate world, mainly used by passing traders.
+17. **Kraton** – A mineral-rich but atmosphere-deprived planetoid.
+18. **Seculon Minor** – Cold, arid planet used as a waypoint.
+19. **Grexal I** – Lifeless moon with craters from constant bombardments.
+20. **Tritum** – Rock-covered moon with sulfuric gas pockets.
+21. **Vega II** – Resource-poor, rocky planetoid orbiting an old star.
+22. **Etra Prime** – Moonlet with underground ice deposits.
+23. **Moritha IV** – Uninhabitable, dry planet covered in canyons.
+24. **Jiraxus II** – Tiny moon orbiting a red dwarf, devoid of life.
+25. **Nexis Minor** – Hollowed-out planetoid, possibly a failed terraforming project.
+
+### Class G: Volcanic Activity, Uninhabitable for Most Life
+26. **Syriax V** – Constant volcanic eruptions and poisonous atmosphere.
+27. **Khalon** – Planet wracked by continuous seismic activity.
+28. **Theron IV** – Molten surface with lakes of lava.
+29. **Chorix II** – Active supervolcanoes and thick sulfurous atmosphere.
+30. **Felgaris III** – Ocean of magma beneath a thin crust.
+31. **Rythel Prime** – Entirely volcanic, spewing ash clouds into space.
+32. **Orban** – Planet with volcanic islands surrounded by toxic seas.
+33. **Tormak VII** – Frequent lava flows and massive tectonic shifts.
+34. **Nebrax VI** – A world of erupting volcanoes and poisonous gas.
+35. **Silkara** – Violent volcanic storms cover the surface.
+36. **Vejtar IV** – Highly unstable volcanic planet, core in flux.
+37. **Nyleen II** – Explosive geysers and molten rivers dominate the surface.
+38. **Sarcaris** – Volcanic plains stretch across this uninhabitable planet.
+39. **Eiron IX** – Lava oceans swirl beneath violent volcanic storms.
+40. **Raxes III** – Rock and magma planet plagued by constant quakes.
+41. **Xarot V** – Active volcanoes and molten fissures crisscross the surface.
+42. **Toxar** – Ash-filled skies and seas of magma.
+43. **Gordak VI** – A thick atmosphere of sulfur and volcanic activity.
+44. **Helia III** – Constant eruptions and molten rivers, largely uninhabitable.
+45. **Karlin IV** – Volcanic activity makes colonization impossible.
+46. **Voron VII** – Lava fields span the surface, no breathable atmosphere.
+47. **Vylathis** – Planet covered in smoldering lava plains.
+48. **Xandor** – Volcanic world experiencing constant eruptions.
+49. **Jarnis III** – Active volcanic planet with heavy ash clouds.
+50. **Ortuga** – Molten planet with constant tectonic activity.
+
+### Class H: Uninhabitable for Most, Viable for Specific Species
+51. **Sheliak** – Habitat for the Sheliak, high in radiation.
+52. **Tau Alpha III** – Rocky, barren surface, habitable for silicon-based life.
+53. **Verkin** – Dry planet with toxic gases, viable for Sheliak colonization.
+54. **Harox V** – Desert world with minimal atmosphere but suitable for specific life forms.
+55. **Kraxar II** – Arid world, uninhabitable by most, colonized by Sheliak.
+56. **Dexan VII** – High winds, minimal vegetation, suitable for native species.
+57. **Rolanis** – Desert planet with toxic atmosphere, Sheliak settlement.
+58. **Nornis IV** – Arid, rocky planet, with limited life but suitable for Sheliak.
+59. **Horath Prime** – Barely habitable for certain non-human species.
+60. **Yarinis** – Harsh, dry planet with limited water sources, home to Sheliak.
+61. **Plakis III** – Sparse vegetation, no oxygen-based life, inhabitable by Sheliak.
+62. **Crixar IV** – Dusty, dry world with harsh winds, sparsely populated.
+63. **Torvus V** – Minimal atmosphere, used as a mining colony for Sheliak.
+64. **Karis I** – Barren surface, sparse life forms adapted to harsh conditions.
+65. **Vrok II** – Suitable for silicon-based life, with dangerous storms.
+66. **Zethra** – Desert planet with minimal atmosphere and no animal life.
+67. **Tilanis VI** – Rugged, barren world, only hospitable to Sheliak species.
+68. **Nuvrex IV** – Uninhabitable by humans but claimed by Sheliak for resources.
+69. **Cylor V** – Harsh, barren desert world, barely suitable for Sheliak.
+70. **Reptor III** – Rocky planet with high temperatures and low oxygen, habitable by specific species.
+71. **Miranis VI** – Minimal water, thin atmosphere, colonized by Sheliak settlers.
+72. **Farros V** – Harsh, dry planet, largely uninhabitable but suitable for Sheliak.
+73. **Vornar IV** – Low-oxygen atmosphere, barren but home to Sheliak settlers.
+74. **Jirakus II** – Desert world with high winds, habitable only by select species.
+75. **Alkaron VII** – Rocky, thin atmosphere, viable for Sheliak settlers.
+ 
+### Class J: Gas Giants
+76. **Hedoras** – Massive blue gas giant with turbulent gas storms.
+77. **Xalor** – Gas giant with powerful electromagnetic fields.
+78. **Jarnis V** – A large gas giant orbited by multiple moons.
+79. **Vormir** – A gas giant with swirling red and orange storms.
+80. **Klydon** – Heavily active gas giant, with frequent plasma bursts.
+81. **Praxor IV** – Huge gas giant with rich deposits of helium-3.
+82. **Ryldor** – Enormous gas giant with colorful cloud formations.
+83. **Selkar** – Gas giant orbited by numerous small moons.
+84. **Tychron** – Host to swirling storms of metallic gases.
+85. **Zentaris** – Gas giant with violent electrical storms.
+86. **Tharonis** – Large, deep-blue gas giant with orbiting planetoids.
+87. **Velith** – Huge gas giant, frequently hit by meteors.
+88. **Xenaris V** – Massive gas giant with intense gravity fields.
+89. **Tendarus** – Swirling green and gold cloud formations.
+90. **Koltar** – Heavily electromagnetic gas giant, used as a power source.
+91. **Mirak** – Purple gas giant with a slow orbit around its star.
+92. **Selvoris** – A large, dark blue gas giant with methane clouds.
+93. **Xerath IV** – A gas giant with heavy radiation levels.
+94. **Kendor VII** – Gas giant with faint rings of ice and rock.
+95. **Valmaris** – Gigantic gas giant, known for spectacular storms.
+96. **Yronis** – Gas giant with magnetic fields powerful enough to disrupt starships.
+97. **Nexar IV** – Deep gas giant, believed to harbor unusual gas creatures.
+98. **Zeryon** – A dark gas giant, nearly impossible to navigate due to intense storms.
+99. **Erandor V** – Enormous gas giant, rich in hydrogen deposits.
+100. **Vorath** – Gas giant with luminescent cloud formations.
+
+### Class K: Adaptable for Humans with Biospheres
+101. **Theta VII** – Rocky world, partially terraformed with artificial habitats.
+102. **Delta Prime** – Used as a scientific research station under biodome.
+103. **Caltris IV** – High winds, but habitable with controlled biospheres.
+104. **Korbenis** – Desert planet made livable by self-sustaining biospheres.
+105. **Yveris** – Harsh surface conditions, but colonized using biospheres.
+106. **Kara Prime** – Low oxygen, but adapted for human habitation under domes.
+107. **Xira** – Terraformed desert with artificial rivers under biodomes.
+108. **Tronis VII** – Colonized for its abundant mineral resources under domes.
+109. **Seloth** – Originally uninhabitable, but now hosts major colonies with artificial environments.
+110. **Zantrix V** – Once barren, now a thriving research colony.
+111. **Taltros VI** – High radiation levels, but habitable with shielded domes.
+112. **Kora VI** – Dust storms and extreme weather require artificial biospheres.
+113. **Tyrax II** – Thin atmosphere, colonized using biosphere technology.
+114. **Eltonis** – A world rich in ores, colonized using biodomes.
+115. **Veris Prime** – High surface temperatures, but adapted with temperature-controlled biospheres.
+116. **Relox** – Arid planet, made habitable through large biosphere installations.
+117. **Oryx II** – A resource-rich world, habitable only through use of biospheres.
+118. **Nelexa** – High gravity planet, colonized under extreme conditions with artificial support systems.
+119. **Ylron III** – Thin atmosphere, colonized using biosphere domes.
+120. **Jirath Prime** – Initially uninhabitable, now an agricultural hub within biospheres.
+121. **Tholaris IV** – Volcanic, but colonized under shielded habitats.
+122. **Zyrex** – Harsh desert world made habitable by a network of biospheres.
+123. **Xenara VII** – Marginally habitable world, colonized under controlled biospheres.
+124. **Kelris** – Thin, toxic atmosphere, but adapted for human habitation under domes.
+125. **Torvalis** – Rocky world with limited oxygen, colonized with artificial biosphere habitats.
+
+--
+
+### Class D: Uninhabitable Planetoids, Moons, or Small Planets
+
+1. **Regis IV** – A desolate moon with an iron-rich surface, highly valued by mining corporations. Its irregular orbit leads to frequent meteor showers that make long-term habitation difficult.
+   
+2. **Arix Minor** – Once a bustling mining outpost, now abandoned after its ore deposits were depleted. Harsh winds whip across the barren landscape.
+
+3. **Terekh’s Outpost** – This abandoned outpost was once a scientific station, left in ruins after a catastrophic equipment failure. No atmosphere, making it a popular spot for salvage operations.
+
+4. **Zorath Prime** – A rocky planet known for its sporadic but violent meteor storms. The terrain is jagged and unstable, with deep craters from past impacts.
+
+5. **Helia II** – A small volcanic planetoid with minimal atmosphere. The planet’s frequent eruptions spew ash and molten lava across its surface, making it hazardous for explorers.
+
+6. **Peridon** – An icy, crater-filled moon that orbits a gas giant. Its surface is mostly composed of frozen water and ammonia, and it experiences extreme temperatures.
+
+7. **Echera** – A frozen desert planetoid with ancient, mysterious ruins scattered across its surface. The ruins suggest that an advanced civilization once inhabited the planet.
+
+8. **Vega Minor** – A barren world that is a prime candidate for terraforming due to its proximity to other inhabited systems and its rich mineral composition.
+
+9. **Braklon** – This moon is covered in jagged mountain ranges and is inhospitable due to its thin atmosphere. However, it is rich in rare metals, attracting miners and prospectors.
+
+10. **Lantina IX** – Uninhabited but notable for its ancient alien structures. Archeologists from various species are interested in uncovering its secrets, but no definitive answers have been found yet.
+
+11. **Skran’s Moon** – A cold, dead planetoid previously used as a research station. The station was abandoned after funding cuts, but its empty structures remain intact.
+
+12. **Kelek Prime** – A small asteroid with a composition rich in precious metals. It is often visited by mining ships, but it remains uninhabited due to its lack of atmosphere and resources.
+
+13. **Exarus V** – A rocky moon that orbits a Class J gas giant. Its low gravity and proximity to the gas giant make it a strategic point for refueling and research.
+
+14. **Tirath III** – A frozen dwarf planet on the outskirts of a solar system, known for its highly reflective ice caps. The planet is largely ignored except by those studying icy worlds.
+
+15. **Voltan V** – A meteor-prone planetoid with vast deposits of iron. Its surface is covered in meteor craters, making mining operations hazardous but lucrative.
+
+16. **Oron VII** – A desolate world with an atmosphere so thin that only traders passing through the system briefly stop here. It holds little value except as a resting point.
+
+17. **Kraton** – This planetoid is mineral-rich, attracting mining corporations. However, the atmosphere is nearly non-existent, requiring miners to live in sealed habitats.
+
+18. **Seculon Minor** – A cold, arid planet that serves as a waypoint for long-range exploratory vessels. It has limited natural resources but is conveniently located for resupply.
+
+19. **Grexal I** – A lifeless moon with craters from constant bombardments by nearby asteroids. It is frequently used as a testing site for new weaponry.
+
+20. **Tritum** – A rock-covered moon with pockets of sulfuric gas. The gases are toxic, and the surface is unstable, making it dangerous for long-term operations.
+
+21. **Vega II** – A resource-poor, rocky planetoid orbiting an old star. Once considered for mining, it was abandoned due to the difficulty of extracting the sparse resources.
+
+22. **Etra Prime** – A tiny moonlet with underground ice deposits. While not particularly hospitable, it is sometimes used by ships as a water source after refining the ice.
+
+23. **Moritha IV** – This dry planet is uninhabitable, covered in massive canyons that were likely formed by ancient tectonic activity. It is often used as a training ground for planetary survival exercises.
+
+24. **Jiraxus II** – A tiny, barren moon orbiting a red dwarf star. Devoid of life, it serves mainly as a navigation point for explorers heading into uncharted space.
+
+25. **Nexis Minor** – A hollowed-out planetoid believed to be the result of a failed terraforming experiment. The interior contains abandoned machinery and tunnels used by an unknown civilization.
+
+### Class G: Volcanic Activity, Uninhabitable for Most Life
+
+26. **Syriax V** – This planet is known for its continuous volcanic eruptions and a thick atmosphere filled with toxic, corrosive gases. Any attempts to land are thwarted by constant seismic tremors and frequent eruptions.
+
+27. **Khalon** – Wracked by continuous seismic activity, this planet’s crust is constantly shifting, creating deep fissures and lava flows. The atmosphere is filled with ash, making it hostile to most life forms.
+
+28. **Theron IV** – Its molten surface features massive lakes of lava that stretch for miles. The planet’s intense heat and sulfur-laden air render it completely uninhabitable for most species.
+
+29. **Chorix II** – Home to active supervolcanoes, the surface of Chorix II is constantly reshaped by violent eruptions. The planet is surrounded by a thick, sulfurous atmosphere that corrodes most metal-based technology.
+
+30. **Felgaris III** – The thin, fragile crust of Felgaris III barely contains the oceans of magma beneath. Occasional surface collapses release molten flows that can extend for miles.
+
+31. **Rythel Prime** – An entirely volcanic world, Rythel Prime constantly spews ash clouds into space. The planet’s atmosphere is superheated by molten rivers that snake across the landscape, and ash storms make exploration impossible.
+
+32. **Orban** – Orban’s surface is dotted with volcanic islands, surrounded by toxic, acidic seas. The planet experiences frequent volcanic activity that can result in entire islands being consumed by lava.
+
+33. **Tormak VII** – Frequent and unpredictable lava flows constantly reshape Tormak VII’s surface. Massive tectonic shifts cause deep rifts and earthquakes, making the planet inhospitable for colonization.
+
+34. **Nebrax VI** – Known for its world-spanning volcanic chains, Nebrax VI constantly emits poisonous gases. It’s considered a prime research destination for studying volcanic planets but is uninhabitable due to its extreme conditions.
+
+35. **Silkara** – Violent volcanic storms rage across Silkara, covering the planet’s surface with molten debris and ash. These storms can last for months, engulfing entire regions in superheated clouds of gas.
+
+36. **Vejtar IV** – A highly unstable planet whose core is in constant flux. The surface is dotted with volcanoes, magma rivers, and frequent eruptions, making any settlement efforts futile.
+
+37. **Nyleen II** – The planet is dominated by explosive geysers that hurl molten material skyward, along with fast-moving rivers of lava. Its highly unstable surface is riddled with fissures.
+
+38. **Sarcaris** – A planet of wide volcanic plains, Sarcaris’s landscape is broken by rivers of molten rock. The ground trembles frequently from the constant shifting of tectonic plates beneath.
+
+39. **Eiron IX** – A planet of swirling lava oceans and violent volcanic storms that create near-constant seismic disturbances. The storms can discharge plasma into the atmosphere, making landings dangerous.
+
+40. **Raxes III** – The planet’s entire surface is composed of rock and magma, plagued by constant seismic activity. Raxes III’s quakes frequently cause eruptions that flood large areas with molten rock.
+
+41. **Xarot V** – Xarot V is crisscrossed by molten fissures and active volcanoes, with ash-filled skies and frequent tremors that split the ground open at unpredictable intervals.
+
+42. **Toxar** – Toxar’s atmosphere is thick with ash, and its molten seas occasionally bubble over into violent eruptions. The planet’s volcanic activity has transformed it into a fiery, chaotic world.
+
+43. **Gordak VI** – With a thick atmosphere of sulfur and continuous volcanic eruptions, Gordak VI is a planet that never sees calm. Its surface is filled with sulfuric geysers and lava flows that shift with each quake.
+
+44. **Helia III** – Helia III experiences constant eruptions, with rivers of molten rock and ash clouds that blot out the sun. Its extreme temperatures and toxic gases make it unlivable.
+
+45. **Karlin IV** – The planet’s volcanic activity makes it impossible for any colonization efforts to succeed. Massive ash clouds frequently plunge the surface into darkness, and lava flows cover much of the planet.
+
+46. **Voron VII** – Voron VII’s surface is covered in vast lava fields, with no breathable atmosphere. Any who venture here are met with unrelenting heat and ash storms that obscure all visibility.
+
+47. **Vylathis** – A planet entirely dominated by smoldering lava plains, Vylathis constantly releases gases and magma through its hundreds of active volcanoes.
+
+48. **Xandor** – Xandor is an inferno world in a constant state of eruption. Its atmosphere is thick with heat and ash, and it experiences almost daily seismic events.
+
+49. **Jarnis III** – Jarnis III is plagued by heavy ash clouds and frequent volcanic activity. The planet’s constant eruptions spew lava across the landscape, reshaping the terrain regularly.
+
+50. **Ortuga** – Ortuga is a molten planet whose surface is in a constant state of flux due to ongoing tectonic activity. Lava rivers run across its surface, and frequent eruptions hurl ash and debris into the atmosphere.
+
+
+### Class H: Uninhabitable for Most, Viable for Specific Species
+
+51. **Sheliak** – The homeworld of the Sheliak species, Sheliak is a high-radiation environment with no oxygen-based atmosphere. Its unique atmosphere is toxic to most carbon-based life forms, making it ideal for the Sheliak’s silicon-based biology.
+
+52. **Tau Alpha III** – A rocky and barren planet with intense heat during the day and freezing cold at night. Tau Alpha III’s atmosphere is viable for silicon-based life forms but hostile to oxygen-breathing species.
+
+53. **Verkin** – A dry planet rich in toxic gases and hazardous minerals. Despite its inhospitable surface, the Sheliak thrive in Verkin's extreme conditions.
+
+54. **Harox V** – This desert world has minimal atmosphere and almost no surface water, but it is home to a few highly specialized life forms that can withstand the harsh environment.
+
+55. **Kraxar II** – Known for its arid, desert-like surface, Kraxar II is generally uninhabitable by carbon-based life but is colonized by Sheliak due to its rich silicon deposits.
+
+56. **Dexan VII** – High winds and little vegetation characterize this planet, but the native species are adapted to the challenging conditions. The Sheliak have established settlements here.
+
+57. **Rolanis** – A dry, rocky desert planet with a toxic atmosphere that renders it uninhabitable for most, but the Sheliak have created settlements due to its mineral wealth.
+
+58. **Nornis IV** – An arid, rocky planet with very limited life. The atmosphere is sparse, but the Sheliak have made it their own due to its remote location and resource deposits.
+
+59. **Horath Prime** – A world barely suitable for certain non-human species, Horath Prime's thin atmosphere and volatile weather patterns make it dangerous for most other races, but some species have adapted to the conditions.
+
+60. **Yarinis** – A dry, harsh world with minimal water sources and almost no vegetation. The Sheliak have established small colonies due to the planet’s resource potential.
+
+61. **Plakis III** – A planet with sparse vegetation and a harsh climate. No oxygen-based life can survive here, but the Sheliak have adapted well to the conditions.
+
+62. **Crixar IV** – A dusty, arid world that experiences frequent dust storms and extreme temperature fluctuations. The planet is home to small Sheliak colonies.
+
+63. **Torvus V** – This planet has a minimal atmosphere and is not suitable for most species, but it serves as an important mining colony for the Sheliak.
+
+64. **Karis I** – Karis I has a barren surface with almost no water or breathable atmosphere, but the planet supports a few life forms adapted to its extreme conditions. The Sheliak find its natural resources useful.
+
+65. **Vrok II** – Known for its constant, dangerous storms and silicon-rich soil, Vrok II is inhabited only by silicon-based life forms, which thrive in its volatile environment.
+
+66. **Zethra** – A nearly lifeless desert planet, Zethra has no atmosphere suitable for animal life. Its value lies in its geological resources, which have attracted Sheliak settlers.
+
+67. **Tilanis VI** – A rugged, barren world with intense solar radiation and limited water. The Sheliak have established settlements due to the planet’s isolation and resource reserves.
+
+68. **Nuvrex IV** – Although uninhabitable by humans, Nuvrex IV is rich in resources important to the Sheliak, making it a valuable outpost for their civilization.
+
+69. **Cylor V** – Cylor V is a harsh desert world with thin air and extreme temperature variations. Barely habitable, it supports a small Sheliak population.
+
+70. **Reptor III** – Reptor III’s rocky landscape and high temperatures, combined with its low oxygen levels, make it suitable only for specific species that have adapted to its environment.
+
+71. **Miranis VI** – This world has minimal water and a thin atmosphere, yet the Sheliak have colonized the planet due to its abundance of silicon and mineral resources.
+
+72. **Farros V** – Farros V is a harsh, dry planet that is uninhabitable for most species but serves as a resource-rich outpost for the Sheliak.
+
+73. **Vornar IV** – With a low-oxygen atmosphere and barren surface, Vornar IV is a challenging environment, but Sheliak settlers have made use of its resources.
+
+74. **Jirakus II** – A desert world swept by high winds and extreme temperatures, Jirakus II is only habitable by species with unique adaptations to the harsh climate.
+
+75. **Alkaron VII** – Alkaron VII is a rocky world with a thin, toxic atmosphere. The Sheliak find it viable for their species and have established settlements there.
+
+### Class J: Gas Giants
+
+76. **Hedoras** – A massive blue gas giant with powerful, constantly shifting gas storms that cover its surface. Hedoras is a frequent subject of study for its intense weather systems.
+
+77. **Xalor** – This gas giant has extremely strong electromagnetic fields, making it a potential energy source. Its powerful magnetic storms pose challenges to nearby spacecraft.
+
+78. **Jarnis V** – A colossal gas giant orbited by over a dozen moons, some of which are prime candidates for colonization due to their mineral-rich environments.
+
+79. **Vormir** – A stunning gas giant with swirling red and orange storm systems that can be seen from its orbiting moons. Vormir’s weather patterns are studied for their intensity.
+
+80. **Klydon** – Heavily active, Klydon experiences frequent plasma bursts and has a constantly shifting atmosphere, making it hazardous for space travel in the vicinity.
+
+81. **Praxor IV** – A huge gas giant known for its abundant helium-3 reserves, making it a key location for fuel harvesting in the system.
+
+82. **Ryldor** – This enormous gas giant features stunning cloud formations in vibrant colors, making it a visual marvel from orbit.
+
+83. **Selkar** – A quiet gas giant orbited by numerous small moons, some of which may harbor primitive life in their subterranean oceans.
+
+84. **Tychron** – Known for its swirling metallic gases, Tychron’s atmosphere contains rare materials that make it a valuable target for mining operations.
+
+85. **Zentaris** – Constantly experiencing violent electrical storms, Zentaris has been deemed too dangerous for prolonged exploration.
+
+86. **Tharonis** – A large, deep-blue gas giant with several small planetoids orbiting it, many of which show evidence of ancient alien structures.
+
+87. **Velith** – A massive gas giant frequently struck by meteors, Velith’s atmosphere constantly churns with debris from space, creating a chaotic outer layer.
+
+88. **Xenaris V** – A giant with intense gravity fields that make it difficult for nearby ships to navigate. Xenaris V’s moons are largely uninhabited due to the gravitational pull.
+
+89. **Tendarus** – Known for its beautiful swirling green and gold cloud formations, Tendarus is frequently visited by scientific missions to study its unique atmosphere.
+
+90. **Koltar** – A heavily electromagnetic gas giant used by nearby civilizations as a power source, Koltar’s storms create immense electrical surges that can be harvested.
+
+91. **Mirak** – A purple-hued gas giant with a notably slow orbit around its star. Its peaceful atmosphere contrasts with other more chaotic gas giants.
+
+92. **Selvoris** – A large, dark blue gas giant with thick methane clouds, Selvoris is known for its toxic atmosphere, though some moons around it show signs of life.
+
+93. **Xerath IV** – Highly radioactive, Xerath IV’s gas layers emit heavy levels of radiation, making it nearly impossible to explore or mine.
+
+94. **Kendor VII** – A gas giant with faint, shimmering rings made of ice and rock. Kendor VII is often considered a beautiful natural wonder.
+
+95. **Valmaris** – Known for its gigantic, visually spectacular storms that can last for centuries. Valmaris is often observed by travelers passing through its system.
+
+96. **Yronis** – A gas giant with magnetic fields so powerful they can disrupt starships and nearby electronics, Yronis is considered highly dangerous.
+
+97. **Nexar IV** – A deep, mysterious gas giant that is believed to harbor unusual gas-based creatures within its dense cloud layers.
+
+98. **Zeryon** – A dark, storm-laden gas giant, nearly impossible to navigate due to the intensity of its electrical storms. Zeryon is often avoided by travelers.
+
+99. **Erandor V** – An enormous gas giant rich in hydrogen deposits, making it a key refueling site for starships and a prime location for gas mining operations.
+
+100. **Vorath** – A gas giant with luminescent cloud formations, giving it a soft, glowing appearance from space. Vorath’s unique gases have attracted researchers.
+
+### Class K: Adaptable for Humans with Biospheres
+
+101. **Theta VII** – A rocky planet with minimal vegetation, partially terraformed using artificial habitats. The biodomes sustain small human colonies and experimental agriculture.
+
+102. **Delta Prime** – Primarily a scientific research station, the planet is entirely dependent on controlled biodomes. The focus is on studying the planet’s geology and atmosphere.
+
+103. **Caltris IV** – Despite its intense winds and frequent dust storms, Caltris IV is habitable with controlled biospheres that protect its human inhabitants from the harsh elements.
+
+104. **Korbenis** – A desert planet with almost no natural water sources, Korbenis relies on self-sustaining biospheres for both human habitation and agriculture.
+
+105. **Yveris** – Although the surface is hot and barren, Yveris has been colonized by humans using large, interconnected biospheres that support small cities and agricultural centers.
+
+106. **Kara Prime** – Known for its low oxygen levels, Kara Prime has been adapted for human habitation with a series of interconnected biodomes that house residential areas and industrial facilities.
+
+107. **Xira** – A desert planet that has undergone significant terraforming, Xira is now a thriving colony with artificial rivers and lakes inside biodomes. These domes also support a growing population.
+
+108. **Tronis VII** – A resource-rich planet colonized for its abundant mineral wealth, Tronis VII is uninhabitable outside the biospheres that dot its surface.
+
+109. **Seloth** – Initially barren and lifeless, Seloth has become a hub for human colonists living in massive artificial environments that provide both homes and industry.
+
+110. **Zantrix V** – Once a barren wasteland, this planet now hosts a thriving research colony within enclosed habitats that protect residents from the hostile atmosphere.
+
+111. **Taltros VI** – With high radiation levels on its surface, Taltros VI was deemed dangerous for long-term exposure, but humans now live safely inside shielded biospheres.
+
+112. **Kora VI** – Known for its frequent dust storms and extreme weather, Kora VI’s colonies are heavily dependent on biosphere technology for survival.
+
+113. **Tyrax II** – With a thin atmosphere and low levels of oxygen, Tyrax II is home to a small human population living within biodomes that create a livable environment.
+
+114. **Eltonis** – Rich in ores and minerals, Eltonis is a mining colony that has adapted to the planet’s harsh conditions with the use of biodomes for both habitation and resource extraction.
+
+115. **Veris Prime** – Known for its high surface temperatures, Veris Prime’s colonists live in temperature-controlled biospheres that shield them from the planet’s blistering heat.
+
+116. **Relox** – An arid, rocky world that has been colonized by humans who live in large, interconnected biosphere installations that support both agriculture and industry.
+
+117. **Oryx II** – This resource-rich world is habitable only within biospheres, as the planet’s surface is too hostile for direct human exposure. Mining operations flourish under the controlled conditions.
+
+118. **Nelexa** – A planet with extremely high gravity, Nelexa’s colonies exist under extreme conditions, with artificial support systems allowing humans to live and work within domed habitats.
+
+119. **Ylron III** – With its thin atmosphere and lack of natural water sources, Ylron III has been colonized using biosphere domes that provide all the necessities for human life.
+
+120. **Jirath Prime** – Initially an uninhabitable planet, Jirath Prime has become an agricultural hub, with crops growing inside massive biospheres that regulate temperature, humidity, and air quality.
+
+121. **Tholaris IV** – A volcanic world, Tholaris IV’s colonists live within shielded habitats that protect them from both volcanic eruptions and the toxic atmosphere.
+
+122. **Zyrex** – A harsh desert planet that relies on a network of interconnected biospheres to support human life. The planet has been slowly adapted for farming and habitation.
+
+123. **Xenara VII** – Marginally habitable, Xenara VII has seen human colonization under controlled biospheres, which provide safety from the planet’s frequent storms and erratic climate.
+
+124. **Kelris** – With its thin and toxic atmosphere, Kelris has been colonized by humans who live in tightly controlled dome environments that provide clean air and water.
+
+125. **Torvalis** – A rocky world with limited oxygen, Torvalis has been colonized using artificial biosphere habitats that provide homes, industry, and a stable environment for long-term human habitation.
