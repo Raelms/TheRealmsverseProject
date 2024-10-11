@@ -37,6 +37,8 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 15 Guilds (15 groups)
 
+330 planets
+
 ***
 
 in total:
