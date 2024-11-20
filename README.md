@@ -39,7 +39,7 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 330 planets
 
-2 Dimensional Planes
+3 Dimensional Planes
 
 ***
 
