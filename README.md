@@ -19,7 +19,7 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 32 Reapers (6 groups)
 
-4 Species
+5 Species
 
 2 Mortal Sects
 
@@ -39,9 +39,11 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 330 planets
 
+2 Dimensional Planes
+
 ***
 
 in total:
 
 
-151 species (41 groups)
+152 species (41 groups)
