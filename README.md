@@ -19,7 +19,7 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 
 32 Reapers (6 groups)
 
-6 Species
+7 Species
 
 2 Mortal Sects
 
@@ -46,4 +46,4 @@ also if you fork this, make sure ye also have me permission to do so, and to mak
 in total:
 
 
-153 species (41 groups)
+154 species (41 groups)
