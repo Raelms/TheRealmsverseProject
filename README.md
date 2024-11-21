@@ -5,7 +5,7 @@ me discord is open 24/7, and it is: rerumuzu_ekuripusu
 also if you fork this, make sure ye also have me permission to do so, and to make sure that ye tell me the changes ye did to the lore, cuz again me discord is open 24/7
 
 ***
-3 Technological Races
+4 Technological Races
 
 27 Vampires (7 groups)
 
