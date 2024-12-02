@@ -1,6 +1,7 @@
 first 125 Planets:
 
-### Class D: Uninhabitable Planetoids, Moons, or Small Planets
+Class D: Uninhabitable Planetoids, Moons, or Small Planets
+
 1. **Regis IV** – Desolate moon with iron-rich surface.
 2. **Arix Minor** – Small, barren planetoid used for mining.
 3. **Terekh’s Outpost** – Abandoned moon outpost, no atmosphere.
@@ -1041,16 +1042,16 @@ The seceond 205 planets:
 
 ### Class N: Habitable with Dense Atmosphere and Unique Conditions  
 
-201. **Majalis** – A lush, Earth-like planet with a rich biosphere and abundant life, known for its dense, humid atmosphere and vast forests teeming with biodiversity. 
+201. Majalis – A lush, Earth-like planet with a rich biosphere and abundant life, known for its dense, humid atmosphere and vast forests teeming with biodiversity. 
 
-### Class O: Ocean Worlds  
+Class O: Ocean Worlds  
 
-202. **Xara** – An oceanic world covered almost entirely by water, featuring vast, uncharted underwater landscapes, deep trenches, and mysterious aquatic ecosystems that may harbor advanced marine life.
+202. Xara – An oceanic world covered almost entirely by water, featuring vast, uncharted underwater landscapes, deep trenches, and mysterious aquatic ecosystems that may harbor advanced marine life.
 
-### Class P: Breathable Atmosphere, Animal Life, Vapor Oceans  
+Class P: Breathable Atmosphere, Animal Life, Vapor Oceans  
 
-203. **Ysida** – A planet with a breathable atmosphere and stormy vapor oceans that generate antimatter naturally. Known for its unpredictable weather patterns and rare, exotic life forms adapted to the intense conditions.  
+203. Ysida – A planet with a breathable atmosphere and stormy vapor oceans that generate antimatter naturally. Known for its unpredictable weather patterns and rare, exotic life forms adapted to the intense conditions.  
 
-204. **Gorath II** – A world where intense atmospheric storms swirl above vapor oceans, home to highly adapted exotic life forms that thrive in the challenging environment.  
+204. Gorath II – A world where intense atmospheric storms swirl above vapor oceans, home to highly adapted exotic life forms that thrive in the challenging environment.  
 
-205. **Cygnus VII** – A planet with thick vapor oceans and heavy atmospheric storms, with extreme weather creating a volatile environment, but still capable of supporting complex life forms.
+205. Cygnus VII – A planet with thick vapor oceans and heavy atmospheric storms, with extreme weather creating a volatile environment, but still capable of supporting complex life forms.
