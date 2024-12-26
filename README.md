@@ -4,7 +4,7 @@ me discord is open 24/7, and it is: rerumuzu_ekuripusu
 ***
 also if you fork this, make sure ye also have me permission to do so, and to make sure that ye tell me the changes ye did to the lore, cuz again me discord is open 24/7
 ***
-please download the offical beta wiki: https://github.com/Raelms/TheRealmsverseProject/blob/main/Table%20of%20Contents.html
+please download the offical beta wiki: [https://github.com/Raelms/TheRealmsverseProject/blob/main/Table%20of%20Contents.html](https://github.com/Raelms/TheRealmsverseProject/releases/tag/v1.0.1)
 ***
 4 Technological Races
 
